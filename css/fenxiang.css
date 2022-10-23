@@ -1,0 +1,164 @@
+body {
+    background-image: url(背景.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+          }          
+   * {
+       margin: 0px;
+       padding: 0px;
+       list-style: none;
+      }    
+    body {
+        background-color: #4B7C99;
+            }
+              
+   nav {
+   background-color: #CCD0D9;
+   width: 100%;
+   height: 60px;
+   }
+                   
+   nav a {
+   text-decoration: none;
+   line-height: 60px;
+   margin-left: 50px;
+   margin-right: 50px;
+   color: #020C16;
+   font-weight: bold;
+   text-align:center;
+   padding: 20px 30px;
+   }
+                   
+   nav a:hover {
+   color: #1a9be6;
+   background-color: #383978;
+   }
+   .heihei{
+    text-align:center;
+    font-size:20px;
+    font-weight: 400;
+    color:rgb(9, 40, 243);
+   }
+   .content{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    }
+    .c1{
+    height: auto;
+    }
+    .namec1{
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: YouYuan;
+    letter-spacing: 10px;
+    color: rgb(0, 169, 183);
+    font-weight: 700;
+    }
+    .contentc1{
+    height: 300px;
+    
+    }
+    #y11{
+    width: 350px;
+    height: 100%;
+    float: left;
+    background-image: url(../img/song1.webp);
+    background-size: cover;
+    
+    }
+    #y12{
+    width: 770px;
+    height: 100%;
+    float: left;
+    text-align: center;
+    }
+    .c2{
+    height: auto;
+    }
+    .namec2{
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: YouYuan;
+    letter-spacing: 10px;
+    color: rgb(0, 169, 183);
+    font-weight: 700;
+    }
+    .contentc2{
+    height: 300px;
+    
+    }
+    #y21{
+    width: 350px;
+    height: 100%;
+    float: left;
+    background-image: url(../img/song2.jpeg);
+    background-size: cover;
+    }
+    #y22{
+    width: 770px;
+    height: 100%;
+    float: left;
+    text-align: center;
+    }
+    .c3{
+    height: auto;
+    }
+    .namec3{
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: YouYuan;
+    letter-spacing: 10px;
+    color: rgb(0, 169, 183);
+    font-weight: 700;
+    }
+    .contentc3{
+    height: 300px;
+    
+    }
+    #y31{
+    width: 350px;
+    height: 100%;
+    float: left;
+    background-image: url(../img/song3.webp);
+    background-size: cover;
+    }
+    #y32{
+    width: 770px;
+    height: 100%;
+    float: left;
+    text-align: center;
+    }
+    .c4{
+    height: auto;
+    }
+    .namec4{
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: YouYuan;
+    letter-spacing: 10px;
+    color: rgb(0, 169, 183);
+    font-weight: 700;
+    }
+    .contentc4{
+    height: 300px;
+    
+    }
+    #y41{
+    width: 350px;
+    height: 100%;
+    float: left;
+    background-image: url(../img/song4.webp);
+    background-size: cover;
+    }
+    #y42{
+    width: 770px;
+    height: 100%;
+    float: left;
+    text-align: center;
+    }
